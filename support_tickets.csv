@@ -1,0 +1,21 @@
+Ticket,Category,Priority
+Internet is not working,Technical,High
+Unable to login to my account,Account,Medium
+Payment failed while purchasing,Billing,High
+Need password reset,Account,Medium
+Application crashes after update,Technical,High
+Invoice not received,Billing,Low
+Refund not processed,Billing,High
+Website loads very slowly,Technical,Medium
+Cannot change email address,Account,Low
+Order payment deducted twice,Billing,High
+Forgot my password,Account,Medium
+Screen freezes while opening application,Technical,High
+Need copy of invoice,Billing,Low
+Unable to upload documents,Technical,Medium
+Account locked after multiple login attempts,Account,High
+Payment gateway error,Billing,High
+Mobile app not opening,Technical,High
+Want to change phone number,Account,Low
+Received incorrect bill,Billing,Medium
+Software installation failed,Technical,High
